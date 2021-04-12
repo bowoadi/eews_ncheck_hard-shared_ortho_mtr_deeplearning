@@ -10,12 +10,5 @@ Network Architecture
 
 Citation
 --------
-> @ARTICLE{9383795,
-  author={A. {Wibowo} and C. {Pratama} and D. P. {Sahara} and L. S. {Heliani} and S. {Rasyid} and Z. {Akbar} and F. {Muttaqy} and A. {Sudrajat}},
-  journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={Earthquake Early Warning System Using Ncheck and Hard-Shared Orthogonal Multitarget Regression on Deep Learning}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-5},
-  doi={10.1109/LGRS.2021.3066346}}
+> A. Wibowo et al., "Earthquake Early Warning System Using Ncheck and Hard-Shared Orthogonal Multitarget Regression on Deep Learning," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2021.3066346.
+> URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9383795&isnumber=4357975
