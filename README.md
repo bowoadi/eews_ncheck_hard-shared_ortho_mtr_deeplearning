@@ -6,7 +6,7 @@ Realizing an effective earthquake early warning system (EEWS) in the case of ext
 
 Network Architecture
 --------
-![Network architecture of the proposed method](https://github.com/bowoadi/eews_ncheck_hard-shared_ortho_mtr_deeplearning/blob/master/thumbnail/network_architecture.png)
+![Network architecture of the proposed method](https://github.com/bowoadi/eews_ncheck_hard-shared_ortho_mtr_deeplearning/blob/main/thumbnail/network_architecture.png)
 
 Citation
 --------
